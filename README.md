@@ -1,4 +1,4 @@
-# Guvi-Intership
+# Guvi-Internship
 
 Pre-requisites: <br>
 NodeJS must be installed on your system <br>
